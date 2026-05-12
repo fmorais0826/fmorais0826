@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 📚 Bachelor’s degree in Computer Engineering from Universidade Aberta [IN PROGRESS]
+
 💼 @ 5CA as a Senior Store Specialist Gaming Support Agent and CRM-Intern
+
 🌱 Git | GitHub | C#
 
 <!--
