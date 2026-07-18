@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-📚 Bachelor’s degree in Computer Engineering from Universidade Aberta [IN PROGRESS]
+📚 Bachelor’s degree in Computer Engineering @ Universidade Aberta [IN PROGRESS]
 
-💼 @ 5CA as a Senior Store Specialist Gaming Support Agent and CRM-Intern
+💼 @ 5CA as a Senior Specialist Gaming Support Agent and CRM-Intern
 
-🌱 Git | GitHub | C#
+🌱 Git | GitHub | C# | .NET
 
 <!--
 **fmorais0826/fmorais0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
